@@ -1,0 +1,15 @@
+
+{
+    "_id" : ObjectId("62ed0d76886e0fc8b30f11ad"),
+    "email" : "Mohak.g.ji@gmail.com",
+    "password" : "afdaf",
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("62ed2efd538171abcf35a4ea"),
+    "email" : "assassinmohak@s.com",
+    "_ct" : BinData(0, "YasyQJaF91w0mrA1dDby0xxX4q5FGOFZVVsUT3sIonKXbYHHcEWVrvNq5QCuqNo+wg=="),
+    "_ac" : BinData(0, "YTINsaFazO1IAwBZX03nSUaar6KB8GM6xCFKvozBUyUwWyJfaWQiLCJfY3QiXQ=="),
+    "__v" : NumberInt(0),
+    "password" : ""
+}
